@@ -1,0 +1,90 @@
+body{
+    /* background-image: url("../Images/payrolls.jpg");
+    background-repeat: no-repeat;
+    background-position: stretch; */
+    background: linear-gradient(rgb(0, 82, 126), rgb(2, 71, 109), rgb(1, 60, 92));
+    background-attachment: fixed;
+}
+
+.custom-shadow{
+    box-shadow: 0px 0px 50px rgb(0, 121, 186);
+}
+
+.bg-whitesmoke{
+    background-color: whitesmoke;
+}
+
+.bg-blue{
+    background-color: rgb(2, 85, 129);
+    /* background-color: rgb(0, 121, 186); */
+}
+
+.margin-top{
+    margin-top: 100px;
+}
+
+.card-padding{
+    padding: 0px;
+}
+
+.bt-none{
+    border-top: none;
+}
+
+.bl-none{
+    border-left: none;
+}
+
+.br-none{
+    border-right: none;
+}
+
+.border-color{
+    border-bottom-color: rgb(168, 168, 168);
+}
+
+.border-thin{
+    border-width: 1px;
+}
+
+.o-5{
+    opacity: 5px;
+}
+
+.login-input{
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    transition: .3s;
+    /* border-width: 1px; */
+}
+
+.login-input:active, .login-input:focus{
+    outline: none;
+    box-shadow: none;
+    border-color: #ced4da;
+    background-color: whitesmoke!important;
+}
+
+.login-input:hover{
+    border-top: 1px solid #ced4da;
+    border-left: 1px solid #ced4da;
+    border-right: 1px solid #ced4da;
+    font-size: .95rem;
+}
+
+.form-group button{
+    background-color: rgb(2, 85, 129)!important;
+    border: none;
+}
+
+.form-group button:active, .form-group button:focus{
+    border: none;
+    box-shadow: none;
+    outline: none;
+    background-color: rgb(2, 85, 129)!important;
+}
+
+.form-group button:hover{
+    background-color: rgb(2, 70, 107)!important;
+}

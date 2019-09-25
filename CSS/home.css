@@ -1,0 +1,95 @@
+body{
+    background-color: whitesmoke;
+}
+
+.side-nav{
+    /* flex: 0 0 250px; */
+    background-color: rgb(2, 85, 129);
+    height: 100%;
+    width: 250px;
+    position: absolute;
+}
+
+.bg-shadow{
+    box-shadow: 1px 1px 10px rgba(120,120,120,1);
+}
+
+.bg-blue{
+    background-color: rgb(2, 85, 129);
+}
+
+.content{
+    margin-left: 250px;
+}
+
+.bg-whitesmoke{
+    background-color: whitesmoke!important;
+}
+
+.btn-main:focus, .btn-main:active{
+    box-shadow: none;
+}
+
+.btn-main:hover{
+    background-color: whitesmoke;
+    color: rgb(58, 58, 58)!important;
+    font-size: 1.1rem;
+}
+
+.round-1{
+    border-radius: 7px!important;
+}
+
+.btn-dd{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    font-size: 0.9rem;
+}
+
+.btn-dd:hover{
+    /* background-color: #a8a8a8; */
+    background-color: rgb(3, 63, 95);
+    color: whitesmoke!important;
+    /* outline-color: #a8a8a8; */
+    font-size: .95rem;
+}
+
+.btn-dd:focus{
+    box-shadow: none;
+}
+
+.btd-dd span{
+    color: black;
+}
+
+.dropdown-container{
+    display: none;
+}
+
+.dropdown-menu a, .dropdown-container a{
+    border-radius: 5px;
+    text-decoration: none!important;
+    color: black;
+}
+
+a .clearfix span{
+    padding-right: 1.1rem!important;
+}
+
+.dropdown-menu a:hover, .dropdown-container a:hover{
+    background-color: rgb(3, 63, 95);
+    color: whitesmoke;
+    outline: #a8a8a8 1px;
+    text-decoration: none!important;
+    /* outline-color: #a8a8a8; */
+    font-size: .95rem;
+}
+
+.btn-active{
+    background-color: whitesmoke;
+    color: black!important;
+}
+
+.btn-icon{
+    width: 38px!important;
+}
