@@ -41,7 +41,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Master File</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
@@ -91,7 +91,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Government Tables</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
@@ -146,7 +146,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Payroll Setup</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
@@ -186,7 +186,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Shift</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
@@ -206,7 +206,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Leave</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
@@ -236,7 +236,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Allowance</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
@@ -266,7 +266,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Loans and Other Deductions</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
@@ -306,7 +306,7 @@
                                 <button class="btn btn-dd btn-block my-1 p-0 text-left" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
                                     <div class="clearfix pl-4 pr-1 py-2">
                                         <span class="segoe-semilight">Bank</span>
-                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></pr-2>
+                                        <span class="float-right pr-1"><i class="fas fa-caret-right"></i></span>
                                     </div>
                                 </button>
                                 <div class="dropdown-menu">
