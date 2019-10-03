@@ -26,7 +26,7 @@
                         <div class="col-lg-5 bg-blue">
                             <div class="pt-5 px-4">
                                 <img src="Images/dp-logo-white.png" style="width: 60px;" class="mx-auto d-block mb-4"><br>
-                                <span class="text-white segoe-semilight fs-pt-9">Welcome!</span>
+                                <span class="text-white segoe-semilight fs-pt-9">Welcome to My WEBSITE!</span>
                                 <hr class="border-white mt-2 mb-2">
                                 <span class="segoe-bolder text-white fs-13">DASHPAYROLL</span>
                             </div>
